@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    font-family: 'Inconsolata', monospace;
+    font-family: 'Montserrat', sans-serif;
+}
+
+footer {
+    background-color: #000;
+    color: #fff;
+    padding: 60px;
+    text-align: center;
+    margin: 0;
+}
